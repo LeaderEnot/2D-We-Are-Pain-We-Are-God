@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Buildings
+  - Water Ground
+  - Earth Ground
+  - Enemy
+  - Backgrounds
+  - Limitations
+  - Exit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgrounds
+    uniqueID: 2469080045
+    locked: 0
+  - name: Buildings
+    uniqueID: 3632831641
+    locked: 0
+  - name: Water Ground
+    uniqueID: 321535009
+    locked: 0
+  - name: Water Part
+    uniqueID: 1758624563
+    locked: 0
+  - name: Earth
+    uniqueID: 173365677
+    locked: 0
+  - name: Earth Ground
+    uniqueID: 4284311859
+    locked: 0
+  - name: Rain
+    uniqueID: 1412633937
+    locked: 0
+  - name: Player
+    uniqueID: 1200304863
+    locked: 0
+  - name: Enemy
+    uniqueID: 2454457345
+    locked: 0
+  - name: Limitations
+    uniqueID: 1611869379
+    locked: 0
+  - name: Exit
+    uniqueID: 3376929941
+    locked: 0
